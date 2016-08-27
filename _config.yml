@@ -1,4 +1,3 @@
-layout_spectrum: 0.9381729264277965
 typography_spectrum: 0.3675192215014249
 color:
   brandStrength: 0.42616329877637327
@@ -11,4 +10,6 @@ color:
     - '#F7E967'
     - '#A9CF54'
     - '#588F27'
-name: KEIGOhotel
+layout_spectrum: 0.9381729264277965
+name: KEIGO
+description: Hotel automation
