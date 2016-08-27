@@ -1,0 +1,14 @@
+layout_spectrum: 0.9381729264277965
+typography_spectrum: 0.3675192215014249
+color:
+  brandStrength: 0.42616329877637327
+  lightness: 0.8149465846363455
+  saturation: 0.5107912877574563
+  rhythmicContrast: 0.7311907052062452
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: KEIGO
